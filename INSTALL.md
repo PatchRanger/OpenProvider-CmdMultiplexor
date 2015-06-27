@@ -11,7 +11,10 @@
       "type": "vcs",
       "url": "https://github.com/PatchRanger/OpenProvider-CmdMultiplexor"
     }
-  ]
+  ],
+  "require": {
+    "PatchRanger/OpenProvider-CmdMultiplexor": "dev-master"
+  }
 }
 ```
 4. Create the `index.php` file with the following:
