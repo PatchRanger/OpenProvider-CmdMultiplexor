@@ -21,5 +21,5 @@
 ```
 <?php
 require_once 'vendor/autoload.php';
-require_once 'vendor/PatchRanger/index.php';
+require_once 'vendor/PatchRanger/OpenProvider-CmdMultiplexor/index.php';
 ```
