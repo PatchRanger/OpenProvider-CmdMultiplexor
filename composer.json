@@ -1,4 +1,8 @@
 {
+  "name": "PatchRanger/OpenProvider-CmdMultiplexor",
+  "type": "application",
+  "description": "",
+  "license": "GPL-2.0",
   "require": {
     "php": "~5.4"
   }
