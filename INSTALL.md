@@ -1,7 +1,9 @@
 # Via Composer
-1. Install Composer: http://getcomposer.org
-2. Open the directory where you want to install the library.
-3. Create a file called `composer.json` with the following inside:
+1) Install Composer: http://getcomposer.org
+
+2) Open the directory where you want to install the library.
+
+3) Create a file called `composer.json` with the following inside:
 ```
 {
   "minimum-stability": "dev",
@@ -17,7 +19,10 @@
   }
 }
 ```
-4. Create the `index.php` file with the following:
+
+4) Run `composer install`.
+
+5) Create the `index.php` file with the following:
 ```
 <?php
 require_once 'vendor/autoload.php';
